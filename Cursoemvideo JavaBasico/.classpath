@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="calculadoraIdade/src"/>
+	<classpathentry kind="src" path="HoraDoSistema/src"/>
+	<classpathentry kind="src" path="IdiomaSistema/src"/>
+	<classpathentry kind="src" path="IdiomaSistemaJavaFX/src"/>
+	<classpathentry kind="src" path="IdiomaSistemaSwing/src"/>
+	<classpathentry kind="src" path="OlaMundoJavaFX/src"/>
+	<classpathentry kind="src" path="OlaMundoSwing/src"/>
+	<classpathentry kind="src" path="PrimeiroPrograma/src"/>
+	<classpathentry kind="src" path="RelogioJavaFX/src"/>
+	<classpathentry kind="src" path="RelogioSwing/src"/>
+	<classpathentry kind="src" path="ResolucaoTela/src"/>
+	<classpathentry kind="src" path="SomaSwing/src"/>
+	<classpathentry kind="src" path="TesteTipos/src"/>
+	<classpathentry kind="src" path="TiposPrimitivos/src"/>
+	<classpathentry kind="lib" path="IdiomaSistemaJavaFX/dist/IdiomaSistemaJavaFX.jar"/>
+	<classpathentry kind="lib" path="IdiomaSistemaSwing/dist/IdiomaSistemaSwing.jar"/>
+	<classpathentry kind="lib" path="OlaMundoJavaFX/dist/OlaMundoJavaFX.jar"/>
+	<classpathentry kind="lib" path="OlaMundoSwing/dist/OlaMundoSwing.jar"/>
+	<classpathentry kind="lib" path="RelogioJavaFX/dist/RelogioJavaFX.jar"/>
+	<classpathentry kind="lib" path="RelogioSwing/dist/RelogioSwing.jar"/>
+	<classpathentry kind="output" path="HoraDoSistema/bin"/>
+</classpath>
